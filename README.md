@@ -8,6 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashrevdiwala-bizinsights&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yashrevdiwala-bizinsights&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrevdiwala-bizinsights&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yashrevdiwala-bizinsights&icon=0&color=0)](https://visitcount.itsvg.in)
